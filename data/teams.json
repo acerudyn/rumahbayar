@@ -1,0 +1,45 @@
+[{
+    "elements": {
+      "name": "Margaret Sotillo Escala",
+      "image": "assets/img/agent-4.jpg",
+      "desc": "Sed porttitor lectus nibh, Cras ultricies ligula sed magna dictum porta two.",
+      "email": "escala@rumahbayar.com",
+      "link": "agent-single.html",
+      "phone": "+54 356 945234",
+      "facebook": "https://facebook.com",
+      "twitter": "https://twitter.com",
+      "linkedin": "https://linkedin.com",
+      "instagram": "https://instagram.com",
+      "youtube": "https://youtube.com"
+    }
+  },
+  {
+    "elements": {
+      "name": "Stiven Spilver Darw",
+      "image": "assets/img/agent-2.jpg",
+      "desc": "Sed porttitor lectus nibh, Cras ultricies ligula sed magna dictum porta two.",
+      "email": "stiven@rumahbayar.com",
+      "link": "agent-single.html",
+      "phone": "+54 656 745134",
+      "facebook": "https://facebook.com",
+      "twitter": "https://twitter.com",
+      "linkedin": "https://linkedin.com",
+      "instagram": "https://instagram.com",
+      "youtube": "https://youtube.com"
+    }
+  },
+  {
+    "elements": {
+      "name": "Emma Toledo Cascada",
+      "image": "assets/img/agent-3.jpg",
+      "desc": "Sed porttitor lectus nibh, Cras ultricies ligula sed magna dictum porta two.",
+      "email": "emma@rumahbayar.com",
+      "link": "agent-single.html",
+      "phone": "+54 756 846237",
+      "facebook": "https://facebook.com",
+      "twitter": "https://twitter.com",
+      "linkedin": "https://linkedin.com",
+      "instagram": "https://instagram.com",
+      "youtube": "https://youtube.com"
+    }
+  }]

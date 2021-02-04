@@ -1,0 +1,72 @@
+[{
+    "elements": {
+      "name": "Maple Residence Sumarecon",
+      "image": "assets/img/property-1.jpg",
+      "harga": "6,000,000,000",
+      "link": "property-single.html",
+      "luas_tanah": "350",
+      "luas_bangunan": "300",
+      "kamar_tidur": "4",
+      "kamar_mandi": "2"
+    }
+  },
+  {
+    "elements": {
+      "name": "Morizen Cluster Bekasi",
+      "image": "assets/img/property-3.jpg",
+      "harga": "2,000,000,000",
+      "link": "property-single.html",
+      "luas_tanah": "250",
+      "luas_bangunan": "200",
+      "kamar_tidur": "4",
+      "kamar_mandi": "2"
+    }
+  },
+  {
+    "elements": {
+      "name": "Burgundy Cluster Sumarecon",
+      "image": "assets/img/property-6.jpg",
+      "harga": "3,000,000,000",
+      "link": "property-single.html",
+      "luas_tanah": "300",
+      "luas_bangunan": "250",
+      "kamar_tidur": "4",
+      "kamar_mandi": "2"
+    }
+  },
+  {
+      "elements": {
+        "name": "Royal Residence Surabaya",
+        "image": "assets/img/property-7.jpg",
+        "harga": "6,000,000,000",
+        "link": "property-single.html",
+        "luas_tanah": "350",
+        "luas_bangunan": "300",
+        "kamar_tidur": "4",
+        "kamar_mandi": "2"
+      }
+    },
+    {
+      "elements": {
+        "name": "Pakuwon Cluster Surabaya",
+        "image": "assets/img/property-8.jpg",
+        "harga": "5,000,000,000",
+        "link": "property-single.html",
+        "luas_tanah": "340",
+        "luas_bangunan": "300",
+        "kamar_tidur": "4",
+        "kamar_mandi": "2"
+      }
+    },
+    {
+      "elements": {
+        "name": "Calistha Dago Bandung",
+        "image": "assets/img/property-10.jpg",
+        "harga": "5,000,000,000",
+        "link": "property-single.html",
+        "luas_tanah": "300",
+        "luas_bangunan": "250",
+        "kamar_tidur": "4",
+        "kamar_mandi": "2"
+      }
+    }]
