@@ -824,7 +824,7 @@
 
 <!-- Modal Subscribe -->
 <div class="modal" tabindex="-1" role="dialog" id="modalSubscribe">
-  <div class="modal-dialog modal-lg">
+  <div class="modal-dialog modal-md">
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="modal-title">Subscribe</h5>
@@ -833,14 +833,23 @@
         </button>
       </div>
       <div class="modal-body">
-        <a href="https://youtube.com/c/see_udin" target="_blank">
-          <img src="assets/img/subscribe.png" alt="" class="img-fluid">
-          <p class="text-center">Jangan lupa subscribe ya..!</p>
-        </a>
+        <div class="text-center">
+          <img src="assets/img/subscribe.jpg" alt="" class="img-fluid" height="100" width="100">
+          <h4 style="margin-top: 10px;">Subscribe Email</h4>
+        </div>
+        <form class="" action="#" method="post">
+        <div class="input-group" style="margin: 20px 0px 20px 0px;">
+          <input type="email" class="form-control" placeholder="Your email" aria-label="Your email"
+           aria-describedby="basic-addon2" required>
+          <div class="input-group-append">
+            <button class="btn btn-outline-primary" type="submit">Subscribe</button>
+          </div>
+        </div>
+        </form>
       </div>
-      <div class="modal-footer">
+      <!-- <div class="modal-footer">
         <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
-      </div>
+      </div> -->
     </div>
   </div>
 </div>

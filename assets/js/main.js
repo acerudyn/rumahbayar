@@ -9,7 +9,7 @@
         $(this).remove();
       });
     }
-    // $('#modalSubscribe').modal('show');
+    $('#modalSubscribe').modal('show');
   });
 
   $(document).ready(function(){
@@ -21,10 +21,10 @@
     	alert('Your modal won\'t show again as it\'s shown before.');
     } */
 
-    if(!Cookies.get('modalShown')) {
-    	$("#modalSubscribe").modal('show');
-      Cookies.set('modalShown', true);
-    }
+    // if(!Cookies.get('modalShown')) {
+    // 	$("#modalSubscribe").modal('show');
+    //   Cookies.set('modalShown', true);
+    // }
 
  });
 
