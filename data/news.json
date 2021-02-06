@@ -51,4 +51,22 @@
         "category": "Park",
         "link": "blog-single.html"
       }
+    },
+    {
+      "elements": {
+        "image": "assets/img/post-7.jpg",
+        "title": "Home is comming new",
+        "date": "24 Sep. 2020",
+        "category": "Home",
+        "link": "blog-single.html"
+      }
+    },
+    {
+      "elements": {
+        "image": "assets/img/post-1.jpg",
+        "title": "Travel is comming new",
+        "date": "25 Sep. 2020",
+        "category": "Travel",
+        "link": "blog-single.html"
+      }
     }]
