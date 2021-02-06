@@ -1332,6 +1332,7 @@ a:hover {
 .card-footer-a {
   width: 100%;
   height: 100%; /* tambahan jika icon dan text sejajar*/
+  padding-top:14px; /* tambahan jika icon dan text sejajar*/
   position: absolute;
   z-index: 2;
   background-color: #f19132;
