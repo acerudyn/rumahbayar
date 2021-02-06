@@ -23,7 +23,8 @@
 
     if(!Cookies.get('modalShown')) {
     	$("#modalSubscribe").modal('show');
-      Cookies.set('modalShown', true);
+      // Cookies.set('modalShown', true); jika hanya sekali & harus clear cokies
+      Cookies.set('modalShown', true, { expires: 1 }); // set expired cokies 1 day
     }
 
  });

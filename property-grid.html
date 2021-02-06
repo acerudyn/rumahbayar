@@ -326,7 +326,7 @@
 
      $('.row-property').empty();
      $.each(data_property, function() {
-       $('.row-property').append('<div class="col-md-4">'+
+       $('.row-property').append('<div class="col-md-3">'+
            '<div class="card-box-a card-shadow">'+
              '<div class="img-box-a">'+
                '<img src="'+this.elements.image+'" alt="" class="img-a img-fluid">'+
@@ -346,23 +346,23 @@
                      '<span class="ion-ios-arrow-forward"></span>'+
                    '</a>'+
                  '</div>'+
-                 '<div class="card-footer-a">'+
+                 '<div class="card-footer-a" style="padding-top:14px;">'+
                    '<ul class="card-info d-flex justify-content-around">'+
                      '<li>'+
-                       '<h4 class="card-info-title"><i class="fa fa-object-group" aria-hidden="true"></i></h4>'+
-                       '<span>'+this.elements.luas_tanah+'m<sup>2</sup></span>'+
+                       '<h4 class="card-info-title pull-left"><i class="fa fa-object-group" aria-hidden="true"></i></h4>'+
+                       '<span>&nbsp;'+this.elements.luas_tanah+'m<sup>2</sup></span>'+
                      '</li>'+
                      '<li>'+
-                       '<h4 class="card-info-title"><i class="fa fa-home" aria-hidden="true"></i></h4>'+
-                       '<span>'+this.elements.luas_bangunan+'m<sup>2</sup></span>'+
+                       '<h4 class="card-info-title pull-left"><i class="fa fa-home" aria-hidden="true"></i></h4>'+
+                       '<span>&nbsp;'+this.elements.luas_bangunan+'m<sup>2</sup></span>'+
                      '</li>'+
                      '<li>'+
-                       '<h4 class="card-info-title"><i class="fa fa-bed" aria-hidden="true"></i></h4>'+
-                       '<span>'+this.elements.kamar_tidur+'</span>'+
+                       '<h4 class="card-info-title pull-left"><i class="fa fa-bed" aria-hidden="true"></i></h4>'+
+                       '<span>&nbsp;'+this.elements.kamar_tidur+'</span>'+
                      '</li>'+
                      '<li>'+
-                       '<h4 class="card-info-title"><i class="fa fa-bath" aria-hidden="true"></i></h4>'+
-                       '<span>'+this.elements.kamar_mandi+'</span>'+
+                       '<h4 class="card-info-title pull-left"><i class="fa fa-bath" aria-hidden="true"></i></h4>'+
+                       '<span>&nbsp;'+this.elements.kamar_mandi+'</span>'+
                      '</li>'+
                    '</ul>'+
                  '</div>'+
