@@ -1010,6 +1010,12 @@
 
   <script type="text/javascript">
 
+  if(!Cookies.get('modalShown')) {
+    $("#modalSubscribe").modal('show');
+    // Cookies.set('modalShown', true); jika hanya sekali & harus clear cokies
+    Cookies.set('modalShown', true, { expires: 1 }); // set expired cokies 1 day
+  }
+
  // get data service
   $.getJSON("data/services.json", function(data_services) {
     console.log(data_services);

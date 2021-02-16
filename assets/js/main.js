@@ -21,12 +21,6 @@
     	alert('Your modal won\'t show again as it\'s shown before.');
     } */
 
-    if(!Cookies.get('modalShown')) {
-    	$("#modalSubscribe").modal('show');
-      // Cookies.set('modalShown', true); jika hanya sekali & harus clear cokies
-      Cookies.set('modalShown', true, { expires: 1 }); // set expired cokies 1 day
-    }
-
  });
 
   // Back to top button
